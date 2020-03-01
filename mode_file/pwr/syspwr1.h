@@ -1,0 +1,9 @@
+module"pwr"   
+submodule"syspwr0"
+SYS_OC_VBAT
+SYS_OVUV_VBAT
+SYS_OVUV_VCC_5V
+SYS_OC_VCC_5V
+SYS_UV_VCC_5V
+SYS_OV_VCC_5V
+SYS_PG_PMIC

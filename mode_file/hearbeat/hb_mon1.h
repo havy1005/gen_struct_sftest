@@ -1,0 +1,8 @@
+module"hearbeat"   
+submodule"hb0"
+HB_EXC_SPIBUS
+HB_ERR_CHSUM
+HB_ERR_COUNTER
+HB_ERR_TIMEOUT
+HB_ERR_LINE_END
+HB_ERR_CRC

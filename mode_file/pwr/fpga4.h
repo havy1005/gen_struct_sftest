@@ -1,0 +1,6 @@
+module"pwr"   
+submodule"fpga3"
+VBAT_ADC_OV
+VBAT_ADC_UV
+VBATT_FILT_MONITOR_OV
+VBATT_FILT_MONITOR_UV

@@ -1,0 +1,8 @@
+module"can"   
+submodule"Checksum1"
+ID150_CS_ERR
+ID0A2_CS_ERR
+ID139_CS_ERR
+ID259_CS_ERR
+ID2F1_CS_ERR
+ID3B3_CS_ERR
